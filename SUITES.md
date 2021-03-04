@@ -1,0 +1,21 @@
+# SUITES
+- create new suite
+- visibility of all tests
+- add test to test suite
+  - single test
+  - all tests
+  - add tests in different order
+  - add tests in random order and then use button to add all tests
+- reorder tests
+  - simple tests reorder
+  - reorder tests and remove by '+' button
+  - reorder tests and remove by 'trash' icon
+  - reorder tests, remove and then add another test
+- remove test from test suite
+  - by '+' button
+  - by 'trash' icon
+- search of tests in tests list
+- search of tests in tests suite
+- switch 'parallel run disable'
+- rename tests suite
+- delete tests suite
